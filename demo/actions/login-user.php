@@ -35,10 +35,8 @@
      * }
      * 
      * if (!$_SESSION['user']['loggedIn']) {
-     *     
+     *     echo '<h2>Account or password not recognised</h2>';
      * }
-     * 
-     * echo '<h2>Account or password not recognised</h2>';
      * 
      ************************************************************/
 
