@@ -13,22 +13,51 @@
             <article>
 
                 <table hx-boot="true">
+                    
                     <tr>
-                        <td><a href="example-form-create-user.php"><button><strong>C</strong>reate</button></a></td>
-                        <td>Data records are created using <strong>POST</strong> requests, usually through submitting forms.</td>
+                        <td>
+                            <a href="example-form-create-user.php"><button>
+                                <strong>C</strong>reate
+                            </button></a>
+                        </td>
+                        <td>
+                            Data records are created using <strong>POST</strong> requests, usually through submitting forms.
+                        </td>
                     </tr>
+
                     <tr>
-                        <td><a href="example-button-read-user.php"><button><strong>R</strong>ead</button></a></td>
-                        <td>Data records can be read using <strong>GET</strong> requests, triggered by buttons, links, page loads, etc.</td>
+                        <td>
+                            <a href="example-button-read-user.php"><button>
+                                <strong>R</strong>ead
+                            </button></a>
+                        </td>
+                        <td>
+                            Data records can be read using <strong>GET</strong> requests, triggered by buttons, links, page loads, etc.
+                        </td>
                     </tr>
+
                     <tr>
-                        <td><a href="example-form-update-user.php"><button><strong>U</strong>pdate</button></a></td>
-                        <td>Existing data records are updated using <strong>PUT</strong> requests, usually through submitting forms.</td>
+                        <td>
+                            <a href="example-form-update-user.php"><button>
+                                <strong>U</strong>pdate
+                            </button></a>
+                        </td>
+                        <td>
+                            Existing data records are updated using <strong>PUT</strong> requests, usually through submitting forms.
+                        </td>
                     </tr>
+
                     <tr>
-                        <td><a href="example-button-delete-user.php"><button><strong>D</strong>elete</button></a></td>
-                        <td>Data records can be deleted using <strong>DELETE</strong> requests, triggered by buttons, links, etc.</td>
+                        <td>
+                            <a href="example-button-delete-user.php"><button>
+                                <strong>D</strong>elete
+                            </button></a>
+                        </td>
+                        <td>
+                            Data records can be deleted using <strong>DELETE</strong> requests, triggered by buttons, links, etc.
+                        </td>
                     </tr>
+
                 </table>
                 
             </article>
