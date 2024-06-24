@@ -26,6 +26,6 @@
 
     </head>
 
-    <body>
+    <body hx-boost="true">
 
         

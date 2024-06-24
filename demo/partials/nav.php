@@ -6,7 +6,7 @@
 
 <nav id="main-nav">
 
-    <menu hx-boost="true">
+    <menu>
 
         <li><a href="about.php">About</a>
         <li><a href="requests.php">CRUD Requests</a>

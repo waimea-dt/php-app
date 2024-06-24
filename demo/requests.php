@@ -12,7 +12,7 @@
 
             <article>
 
-                <table hx-boot="true">
+                <table>
                     
                     <tr>
                         <td>
